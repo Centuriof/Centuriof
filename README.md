@@ -5,10 +5,10 @@
 
 
 MY SKILLS:
-Hardware
-Linux
-Networking
-Python Scripting
-Bash Scripting
-Metasploit
+Hardware,
+Linux,
+Networking,
+Python Scripting,
+Bash Scripting,
+Metasploit and
 Burp Suite
