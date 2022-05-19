@@ -4,11 +4,3 @@
 - 📫 How to reach me erdicavusoglu@hotmail.com
 
 
-MY SKILLS:
-Hardware,
-Linux,
-Networking,
-Python Scripting,
-Bash Scripting,
-Metasploit and
-Burp Suite
